@@ -12,9 +12,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      button:
-        text: 자기 소개서
-        url: uploads/resume.pdf
+
   - block: collection
     content:
       title: Latest News
