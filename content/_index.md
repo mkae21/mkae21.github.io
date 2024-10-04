@@ -75,7 +75,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
+      view: showcase
       columns: '1'
   
   - block: collection
