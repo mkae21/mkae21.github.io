@@ -1,11 +1,13 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: sleighers 발표
 date: 2020-12-02
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+<br>
+크래프톤 정글에서 CTO및 CEO분들께 발표하는 내용입니다.
+
 
 <!--more-->
 

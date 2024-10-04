@@ -4,17 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: News
-    url: post
-    weight: 20
   - name: About
     url: /#biography
-    weight: 30
+    weight: 10
+  - name: Photo
+    url: post
+    weight: 20
   - name: Events
     url: event
     weight: 40
   - name: Portfolio
-    url: /#portfolio
+    url: portfolio
     weight: 50
   - name: Contact
     url: contact

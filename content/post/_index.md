@@ -1,8 +1,8 @@
 ---
-title: Latest News
+title: 활동 사진
 
 # Listing view
-view: compact
+view: card
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

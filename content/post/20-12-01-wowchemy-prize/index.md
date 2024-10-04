@@ -1,9 +1,12 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: sleighers 발표
+date: 2020-12-02
+image:
+  focal_point: 'top'
 ---
+<br>
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+크래프톤 정글 단체 사진
 
 <!--more-->
 
