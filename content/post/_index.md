@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: 활동 사진
 
 # Listing view
 view: compact
