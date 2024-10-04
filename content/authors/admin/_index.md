@@ -62,7 +62,5 @@ email: ''
 highlight_name: false
 
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<br>
+안녕하세요, 저는 이성주입니다. 전북대학교 컴퓨터공학과에 재학 중이며, Unity와 Unreal Engine를 사용한 게임 개발에 관심이 있습니다. "Sleighers"라는 5인 멀티플레이어 게임을 제작한 경험이 있습니다. 자세한 내용은 제 GitHub를 방문해 주세요. 감사합니다.
