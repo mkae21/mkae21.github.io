@@ -1,41 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 이성주
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: SungJoo
+last_name: Lee
+
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 전북대학교 컴퓨터공학과 학생
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: 전북대학교
+    url: 'https://csai.jbnu.ac.kr/csai/index.do'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 게임 개발자를 희망하는 대학생입니다.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Game Development
+  - Unreal Engine
+  - Unity
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 전북대학교 학사
+      institution: 전북대학교
+      year: 2021
+    - course: 크래프톤 정글
+      institution: 크래프톤
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,21 +42,18 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:bbuchu123@gmail.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mkae21
+  - icon: velog
+    icon_pack: fas
+    link: https://velog.io/@bbuchu123/posts
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
