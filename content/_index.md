@@ -61,7 +61,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest News
+      title: 활동 사진
       subtitle:
       text:
       count: 5
@@ -80,6 +80,19 @@ sections:
   
   - block: collection
     content:
+      title: portfolio
+      text: ""
+      count: 3
+      filters:
+        folders:
+          - portfolio
+    design:
+      view: compact
+      columns: '1'
+
+
+  - block: collection
+    content:
       title: Latest Preprints
       text: ""
       count: 5
@@ -90,13 +103,4 @@ sections:
     design:
       view: citation
       columns: '1'
-
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle:
-  #     text: |
-  #       {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-  #   design:
-  #     columns: '1'
 ---

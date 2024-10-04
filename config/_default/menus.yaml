@@ -14,7 +14,7 @@ main:
     url: event
     weight: 40
   - name: Portfolio
-    url: portfolio
+    url: /#portfolio
     weight: 50
   - name: Contact
     url: contact
