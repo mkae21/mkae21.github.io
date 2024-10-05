@@ -4,16 +4,16 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: About
+  - name: 홈
     url: /#biography
     weight: 10
-  - name: Photo
+  - name: 활동 사진
     url: post
     weight: 20
-  - name: Events
+  - name: 행사
     url: event
     weight: 40
-  - name: Portfolio
+  - name: 포트폴리오
     url: portfolio
     weight: 50
   - parent: Portfolio
@@ -25,6 +25,6 @@ main:
   - parent: Portfolio
     name : Pintos
     url : /portfolio/pintos
-  - name: Contact
+  - name: 찾아오시는 길
     url: contact
     weight: 60
