@@ -1,0 +1,30 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: About
+    url: /#biography
+    weight: 10
+  - name: Photo
+    url: post
+    weight: 20
+  - name: Events
+    url: event
+    weight: 40
+  - name: Portfolio
+    url: portfolio
+    weight: 50
+  - parent: Portfolio
+    name : Sleighers
+    url : /portfolio/sleighers
+  - parent: Portfolio
+    name : StackGrowth
+    url : /portfolio/sg
+  - parent: Portfolio
+    name : Pintos
+    url : /portfolio/pintos
+  - name: Contact
+    url: contact
+    weight: 60
