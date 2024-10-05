@@ -1,48 +1,80 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="개인 포트폴리오 페이지 - 자기소개">
+    <title>README - 자기소개 페이지</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        code {
+            background-color: #eee;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📝 포트폴리오 페이지</h1>
+        <p>이 프로젝트는 개인 포트폴리오 페이지입니다. 빠르고 유연한 정적 사이트 생성기인 <a href="https://gohugo.io/" target="_blank">Hugo</a>를 사용하여 제작되었습니다. 이 페이지에서는 저의 기술 스택, 프로젝트 경험, 개인적인 강점을 소개하고 있습니다.</p>
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+        <h2>🛠️ 기술 스택</h2>
+        <ul>
+            <li><strong>프레임워크</strong>: Hugo</li>
+            <li><strong>스타일링</strong>: Bootstrap</li>
+            <li><strong>언어</strong>: HTML, CSS, JavaScript</li>
+            <li><strong>호스팅</strong>: GitHub Pages</li>
+        </ul>
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+        <h2>🚀 시작하기</h2>
+        <h3>필수 조건</h3>
+        <p>먼저, 로컬 머신에 <a href="https://gohugo.io/getting-started/installing/" target="_blank">Hugo</a>가 설치되어 있어야 합니다.</p>
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+        <h3>설치 방법</h3>
+        <ol>
+            <li><strong>저장소 클론:</strong>
+                <pre><code>git clone https://github.com/your-username/your-repo-name.git<br>cd your-repo-name</code></pre>
+            </li>
+            <li><strong>Hugo 서버 실행:</strong>
+                <pre><code>hugo server -D</code></pre>
+            </li>
+            <li>브라우저에서 <code>http://localhost:1313</code>을 열어 사이트를 확인합니다.</li>
+        </ol>
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+        <h3>사이트 빌드하기</h3>
+        <p>배포를 위해 정적 파일을 생성하려면 아래 명령어를 실행하세요:</p>
+        <pre><code>hugo</code></pre>
+        <p>정적 파일은 <code>public/</code> 디렉토리에 생성되며, 이를 웹 서버나 GitHub Pages와 같은 플랫폼에 업로드하여 호스팅할 수 있습니다.</p>
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+        <h2>📄 자기소개</h2>
+        <p>이 페이지는 저의 개발자 여정을 보여주는 포트폴리오 사이트입니다. 제가 작업한 프로젝트들을 살펴보고, 보유한 기술 스택과 경험에 대해 알아보세요.</p>
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
-
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
-
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
-
-## We ask you, humbly, to support this open source movement
-
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
-
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-## Demo credits
-
-Please replace the demo images with your own.
-
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+        <h2>📫 연락처</h2>
+        <p>연락을 원하시면 <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> 또는 <a href="mailto:your-email@example.com">이메일</a>로 연락주세요!</p>
+    </div>
+</body>
+</html>
