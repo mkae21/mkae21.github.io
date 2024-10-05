@@ -51,7 +51,7 @@ social:
     link: https://www.instagram.com/bbuchu1_2_3/
   - icon: youtube
     icon_pack: fab
-    link: https://www.youtube.com/channel/UC9J
+    link: https://www.youtube.com/channel/bbuchu123
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sungjoo-lee-1b1b3b1b3/
