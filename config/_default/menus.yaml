@@ -16,13 +16,13 @@ main:
   - name: 포트폴리오
     url: portfolio
     weight: 40
-  - parent: Portfolio
+  - parent: 포트폴리오
     name : Sleighers
     url : /portfolio/sleighers
-  - parent: Portfolio
+  - parent: 포트폴리오
     name : StackGrowth
     url : /portfolio/sg
-  - parent: Portfolio
+  - parent: 포트폴리오
     name : Pintos
     url : /portfolio/pintos
   - name: 연락처

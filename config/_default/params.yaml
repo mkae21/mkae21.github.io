@@ -85,10 +85,10 @@ features:
     commento:
       url: ''
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: "mkae21/mkae21.github.io"
+      repo_id: "R_kgDOM7cwQQ"
+      category: "Announcements"
+      category_id: "DIC_kwDOM7cwQc4CjGUB"
       theme: preferred_color_scheme
       language_code: ko
       mapping: pathname
