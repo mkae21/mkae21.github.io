@@ -93,7 +93,7 @@ sections:
 
   - block: collection
     content:
-      title: 활동 사진
+      title: 사진
       subtitle:
       text:
       count: 5
@@ -125,13 +125,13 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: 기획서
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        # publication_type: 'article'
     design:
       view: citation
       columns: '1'
