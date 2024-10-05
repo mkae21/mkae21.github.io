@@ -16,7 +16,7 @@ main:
   - name: 포트폴리오
     url: portfolio
     weight: 50
-  - parent: Portfolio
+  - parent: 포트폴리오
     name : Sleighers
     url : /portfolio/sleighers
   - parent: Portfolio
