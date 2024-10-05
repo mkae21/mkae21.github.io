@@ -1,5 +1,5 @@
 ---
-title: "sleighers"
+title: "지구 탈출"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -17,11 +17,9 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: 지구 탈출은 5인이서 각자의 임무를 완성하여 지구를 탈출하는 게임입니다.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: 지구 탈출은 5인이서 각자의 임무를 완성하여 지구를 탈출하는 게임입니다.
 tags:
 - Source Themes
 featured: false
