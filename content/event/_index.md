@@ -2,7 +2,7 @@
 title: Recent & Upcoming Events
 
 # Listing view
-view: compact
+view: Masonry
 
 # Optional header image (relative to `assets/media/` folder).
 banner:

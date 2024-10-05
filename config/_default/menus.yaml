@@ -16,6 +16,15 @@ main:
   - name: Portfolio
     url: portfolio
     weight: 50
+  - parent: Portfolio
+    name : Sleighers
+    url : /portfolio/sleighers
+  - parent: Portfolio
+    name : StackGrowth
+    url : /portfolio/sg
+  - parent: Portfolio
+    name : Pintos
+    url : /portfolio/pintos
   - name: Contact
     url: contact
     weight: 60
