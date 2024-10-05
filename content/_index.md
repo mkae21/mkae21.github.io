@@ -13,6 +13,16 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="uploads/resume.pdf" cta_text="이력서 다운로드" %}}
+    design:
+      columns: '1'
+
+
   - block: slider
     content:
       slides:

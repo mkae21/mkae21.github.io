@@ -7,3 +7,8 @@
 .cta-group {
   justify-content: center;
 }
+
+// mouse hover effect on the CTA shortcode button
+.cta-group .cta-button {
+  transition: all 0.3s;
+}

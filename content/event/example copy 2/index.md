@@ -1,24 +1,24 @@
 ---
-title: Example Event
+title: 레드브릭 게임잼
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 레드브릭 게임잼
+event_url: https://www.redbrick.io/kr/jam-for-adults
 
-location: Wowchemy HQ
+location: 레드브릭 서울
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 강남구 376 강남대로
+  city: 서울시
+  region: 서울특별시
+  postcode: '06232'
+  country: 대한민국
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 게임 잼
+abstract: '레드브릭 온라인 게임잼은 성인 및 대학생을 대상으로 하는 레드브릭 게임 제작 이벤트입니다.참가자들은 팀빌딩을 하고, 정해진 시간 안에주어진 주제에 맞춰 게임을 개발합니다.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-09-11T13:00:00Z'
+date_end: '2024-10-20T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -51,13 +51,6 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+
 ---
 
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
