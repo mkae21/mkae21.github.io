@@ -89,6 +89,9 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
+      theme: preferred_color_scheme
+      language_code: ko
+      mapping: pathname
   search:
     provider: wowchemy
     wowchemy:
