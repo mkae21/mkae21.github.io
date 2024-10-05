@@ -49,6 +49,15 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/bbuchu1_2_3/
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UC9J
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/sungjoo-lee-1b1b3b1b3/
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/profile.php?id=100007
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # - icon: cv
