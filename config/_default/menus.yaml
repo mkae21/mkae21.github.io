@@ -25,6 +25,6 @@ main:
   - parent: Portfolio
     name : Pintos
     url : /portfolio/pintos
-  - name: 찾아오시는 길
+  - name: 연락처
     url: contact
-    weight: 100
+    weight: 50

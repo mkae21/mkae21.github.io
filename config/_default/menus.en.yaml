@@ -12,10 +12,10 @@ main:
     weight: 20
   - name: Events
     url: event
-    weight: 40
+    weight: 30
   - name: Portfolio
     url: portfolio
-    weight: 50
+    weight: 40
   - parent: Portfolio
     name : Sleighers
     url : /portfolio/sleighers
@@ -27,4 +27,4 @@ main:
     url : /portfolio/pintos
   - name: Contact
     url: contact
-    weight: 60
+    weight: 50
