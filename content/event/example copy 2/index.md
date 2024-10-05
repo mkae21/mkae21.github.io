@@ -1,24 +1,24 @@
 ---
-title: 레드브릭 게임잼
+title: 버닝 비버
 
-event: 레드브릭 게임잼
-event_url: https://www.redbrick.io/kr/jam-for-adults
+event: 버닝 비버
+event_url: https://burningbeaver.com/
 
-location: 레드브릭 서울
+location: DDP 동대문
 address:
-  street: 강남구 376 강남대로
+  street: 281 Eulji-ro
   city: 서울시
   region: 서울특별시
-  postcode: '06232'
+  postcode: '04566'
   country: 대한민국
 
 summary: 게임 잼
-abstract: '레드브릭 온라인 게임잼은 성인 및 대학생을 대상으로 하는 레드브릭 게임 제작 이벤트입니다.참가자들은 팀빌딩을 하고, 정해진 시간 안에주어진 주제에 맞춰 게임을 개발합니다.'
+abstract: '버닝 비버 게임잼은 성인 및 대학생을 대상으로 하는 버닝 비버 게임 제작 이벤트입니다.참가자들은 팀빌딩을 하고, 정해진 시간 안에주어진 주제에 맞춰 게임을 개발합니다.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-09-11T13:00:00Z'
-date_end: '2024-10-20T15:00:00Z'
+date: '2024-11-29T13:00:00Z'
+date_end: '2024-12-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

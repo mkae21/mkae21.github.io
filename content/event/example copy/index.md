@@ -1,24 +1,24 @@
 ---
-title: 레드브릭 게임잼
+title: G-STAR 2024
 
-event: 레드브릭 게임잼
-event_url: https://www.redbrick.io/kr/jam-for-adults
+event: G-STAR 2024
+event_url: https://www.gstar.or.kr/
 
-location: 레드브릭 서울
+location: 부산 벡스코
 address:
-  street: 강남구 376 강남대로
-  city: 서울시
-  region: 서울특별시
-  postcode: '06232'
+  street: 해운대구 55 APEC로
+  city: 부산시
+  region: 부산광역시
+  postcode: '48060'
   country: 대한민국
 
-summary: 게임 잼
-abstract: '레드브릭 온라인 게임잼은 성인 및 대학생을 대상으로 하는 레드브릭 게임 제작 이벤트입니다.참가자들은 팀빌딩을 하고, 정해진 시간 안에주어진 주제에 맞춰 게임을 개발합니다.'
+summary: 지스타 2024
+abstract: '대한민국 최대 게임 박람회인 G-STAR 2024는 게임 산업의 발전을 위해 다양한 게임 관련 이벤트를 개최합니다. 게임 개발자, 게임 관련 기업, 게임 산업에 관심 있는 사람들이 모여 게임 산업의 발전을 위해 논의하고, 새로운 기술을 소개합니다.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-09-11T13:00:00Z'
-date_end: '2024-10-20T15:00:00Z'
+date: '2024-11-14T13:00:00Z'
+date_end: '2024-11-17T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
