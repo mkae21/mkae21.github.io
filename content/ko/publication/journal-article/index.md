@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Unity로 만든 Stack Growth"
 authors:
 - admin
 date: "2015-09-01T00:00:00Z"
