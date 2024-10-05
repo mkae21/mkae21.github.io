@@ -18,7 +18,7 @@ sections:
       slides:
       - title: <span style="font-size:70%">sleighers</span>
         content: <span style="font-size:70%">5인용 멀티 레이싱게임</span>
-        align: center
+        align: left
         background:
           image:
             filename: sleighers.jpg
@@ -29,7 +29,7 @@ sections:
 
       - title: <span style="font-size:70%">StackGrowth</span>
         content: <span style="font-size:70%">직접 제작하며 익히는 습관<span style="font-size:70%">
-        align: center
+        align: right
         background:
           image:
             filename: SG.jpg
@@ -40,10 +40,32 @@ sections:
 
       - title: <span style="font-size:70%">O.S</span>
         content: <span style="font-size:70%">Operation System의 깊은 이해</span>
-        align: center
+        align: left
         background:
           image:
             filename: OS.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:70%">효율성</span>
+        content: <span style="font-size:70%">주어진 Budget에 맞추어 프로젝트를 runnable하게 만드는 능력</span>
+        align: right
+        background:
+          image:
+            filename: recruitment.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:70%">협업</span>
+        content: <span style="font-size:70%">다양한 협업 경험으로 의사소통 능력 보유</span>
+        align: left
+        background:
+          image:
+            filename: contact.jpg
             filters:
               brightness: 0.4
           position: center
