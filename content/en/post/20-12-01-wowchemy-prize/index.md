@@ -6,7 +6,7 @@ image:
 ---
 <br>
 
-크래프톤 정글 단체 사진
+krrafton jungle group photo
 
 <!--more-->
 

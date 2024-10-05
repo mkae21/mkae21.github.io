@@ -11,15 +11,15 @@ last_name: Lee
 superuser: true
 
 # Role/position
-role: 전북대학교 컴퓨터공학과 학생
+role: Jeonbuk National University Computer Science Student
 
 # Organizations/Affiliations
 organizations:
-  - name: 전북대학교
+  - name: Jeonbuk National University
     url: 'https://csai.jbnu.ac.kr/csai/index.do'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 게임 개발자를 희망하는 대학생입니다.
+bio: university student who hopes to become a game developer.
 
 interests:
   - Game Development
@@ -28,11 +28,11 @@ interests:
 
 education:
   courses:
-    - course: 전북대학교 학사
-      institution: 전북대학교
+    - course: Jeonbuk National University bachelor
+      institution: Jeonbuk National University
       year: 2021
-    - course: 크래프톤 정글
-      institution: 크래프톤
+    - course: kraffton jungle
+      institution: kraffton
       year: 2024
 
 # Social/Academic Networking
@@ -71,5 +71,6 @@ email: ''
 highlight_name: false
 
 ---
+<br>
+hello, my name is sungjoo lee. I am a student at Jeonbuk National University majoring in computer science, and I am interested in game development using Unity and Unreal Engine. I have experience in creating a multiplayer game called "Sleighers". For more information, please visit my GitHub.
 
-안녕하세요, 저는 이성주입니다. 전북대학교 컴퓨터공학과에 재학 중이며, Unity와 Unreal Engine를 사용한 게임 개발에 관심이 있습니다. "Sleighers"라는 5인 멀티플레이어 게임을 제작한 경험이 있습니다. 자세한 내용은 제 GitHub를 방문해 주세요.

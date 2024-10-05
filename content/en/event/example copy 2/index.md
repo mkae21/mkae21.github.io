@@ -1,19 +1,19 @@
 ---
-title: 버닝 비버
+title: Burning Beaver
 
-event: 버닝 비버
+event: Burning Beaver
 event_url: https://burningbeaver.com/
 
-location: DDP 동대문
+location: DDP Dongdaemun
 address:
   street: 281 Eulji-ro
-  city: 서울시
-  region: 서울특별시
+  city: Seoul
+  region: Seoul Special City
   postcode: '04566'
-  country: 대한민국
+  country: South Korea
 
-summary: 게임 잼
-abstract: '버닝 비버 게임잼은 성인 및 대학생을 대상으로 하는 버닝 비버 게임 제작 이벤트입니다.참가자들은 팀빌딩을 하고, 정해진 시간 안에주어진 주제에 맞춰 게임을 개발합니다.'
+summary: Game Jam
+abstract: 'Burning Beaver Game Jam is a Burning Beaver game development event targeted at adults and university students. Participants form teams and develop games based on a given theme within a set timeframe.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -51,6 +51,5 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-
+projects: []
 ---
-

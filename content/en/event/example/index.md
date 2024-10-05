@@ -1,19 +1,19 @@
 ---
-title: 레드브릭 게임잼
+title: Redbrick Game Jam
 
-event: 레드브릭 게임잼
+event: Redbrick Game Jam
 event_url: https://www.redbrick.io/kr/jam-for-adults
 
-location: 레드브릭 서울
+location: Redbrick Seoul
 address:
-  street: 강남구 376 강남대로
-  city: 서울시
-  region: 서울특별시
+  street: 376 Gangnam-daero, Gangnam-gu
+  city: Seoul
+  region: Seoul Special City
   postcode: '06232'
-  country: 대한민국
+  country: South Korea
 
-summary: 게임 잼
-abstract: '레드브릭 온라인 게임잼은 성인 및 대학생을 대상으로 하는 레드브릭 게임 제작 이벤트입니다.참가자들은 팀빌딩을 하고, 정해진 시간 안에주어진 주제에 맞춰 게임을 개발합니다.'
+summary: Game Jam
+abstract: 'The Redbrick Online Game Jam is a Redbrick game development event aimed at adults and university students. Participants form teams and develop games based on a given theme within a set timeframe.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -51,6 +51,4 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-
 ---
-

@@ -6,8 +6,7 @@ image:
 ---
 
 <br>
-크래프톤 정글에서 CTO및 CEO분들께 발표하는 내용입니다.
-
+In kraffton jungle, presenting to CTO and CEO.
 
 <!--more-->
 

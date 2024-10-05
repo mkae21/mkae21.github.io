@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        <br> <span style="font-size:80%">전북대학교 7호관 정문에서 연락주시면 감사드리겠습니다.</span> <br>
+        <br> <span style="font-size:80%">Please contact me at the main entrance of Building 7, Chonbuk National University. Thank you. </span> <br>
       email: bbuchu123@gmail.com
       phone: +82-10-8289-8248
       address:

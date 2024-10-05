@@ -1,6 +1,7 @@
 ---
 title: Stack Growth
-summary: 유니티 엔진을 이용하여 간단한 자기소개 형식의 게임을 만들었습니다.
+summary: A simple self-introduction game made using Unity Engine.
+
 tags:
   - practice
 date: 2023-05-01

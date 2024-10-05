@@ -4,16 +4,16 @@ title: G-STAR 2024
 event: G-STAR 2024
 event_url: https://www.gstar.or.kr/
 
-location: 부산 벡스코
+location: BEXCO Busan
 address:
-  street: 해운대구 55 APEC로
-  city: 부산시
-  region: 부산광역시
+  street: 55 APEC-ro Haeundae-gu
+  city: busan
+  region: busan
   postcode: '48060'
-  country: 대한민국
+  country: korea
 
-summary: 지스타 2024
-abstract: '대한민국 최대 게임 박람회인 G-STAR 2024는 게임 산업의 발전을 위해 다양한 게임 관련 이벤트를 개최합니다. 게임 개발자, 게임 관련 기업, 게임 산업에 관심 있는 사람들이 모여 게임 산업의 발전을 위해 논의하고, 새로운 기술을 소개합니다.'
+summary: Game Expo
+abstract: 'G-STAR is an annual game exhibition that takes place in Busan, South Korea. It is the largest game exhibition in Korea and one of the largest in the world. The event is attended by game developers, publishers, and gamers from around the world.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

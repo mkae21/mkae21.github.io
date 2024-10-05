@@ -1,6 +1,6 @@
 ---
 title: Pintos
-summary: 교육용 mini OS Pintos를 구현하였습니다.
+summary: Pintos is a simple instructional operating system framework for the 80x86 architecture. It supports kernel threads, loading and running user programs, and a file system, but it implements all of these in a very simple way.
 tags:
   - Operating System
 date: 2023-04-08

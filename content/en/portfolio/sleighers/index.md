@@ -1,6 +1,7 @@
 ---
 title: sleighers
-summary: 유니티 엔진을 이용한 5인용 온라인 멀티 레이싱 게임
+summary: Unity engine based 5-player online multiplayer racing game
+
 tags:
   - game
 date: 2023-05-24 
